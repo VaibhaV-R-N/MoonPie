@@ -4,11 +4,11 @@ from bs4 import BeautifulSoup as bs
 import json
 import subprocess
 
-xpiLink = "/tmp/tmp-u4y.xpi"
+# xpiLink = "/tmp/tmp-u4y.xpi"
 # options = Options()
 # options.add_argument("--headless")
 driver = webdriver.Firefox()
-driver.install_addon(xpiLink,temporary=True)
+# driver.install_addon(xpiLink,temporary=True)
 
 global f,scroll
 scroll = 500
