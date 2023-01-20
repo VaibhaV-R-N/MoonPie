@@ -1,5 +1,5 @@
 # MoonPie
-A Helper Script For Pokemon S&amp;M. 
+A Helper Script For Pokemon S&amp;M.  
 OS Support : Linux
 
 usage:
