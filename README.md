@@ -11,7 +11,7 @@ Usage:
 -> Press 0 To Submit The Query.  
   
 Interaction:  
--> Interaction Is through Notification Pop-Ups.  
+-> Interaction Is Through Notification Pop-Ups.  
   
 Note:  
 -> Once You Press 1 Or 2 You Will Be In The Query Mode.  
