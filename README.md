@@ -15,4 +15,4 @@ Interaction:
   
 Note:  
 -> Once You Press 1 Or 2 You Will Be In The Query Mode.  
--> Inorder To Switch Beetween Different Modes Or To Stop Moonpie First You Have To Exit The Query Mode By Submitting ( Pressing 0 ).  
+-> Inorder To Switch Between Different Modes Or To Stop Moonpie First You Have To Exit The Query Mode By Submitting ( Pressing 0 ).  
